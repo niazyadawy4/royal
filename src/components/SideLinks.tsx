@@ -3,7 +3,7 @@ import React from 'react'
 
 const SideLinks = () => {
   return (
-    <aside className='pt-10 border-r border-button border-border-semi-transparent'>
+    <aside className='pt-10 border-r border-button border-border-semi-transparent h-full'>
         <ul className='flex flex-col gap-4'>
             <li> <Link href={'/'}>Woman’s Fashion</Link> </li>
             <li> <Link href={'/'}>Men’s Fashion</Link> </li>
